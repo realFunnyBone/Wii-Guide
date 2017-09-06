@@ -70,7 +70,7 @@ For all steps in this section, overwrite any existing files on your SD card.
     ![]({{ base_path }}/images/screenshots/a9lh-to-b9s-file-layout.png)
     {: .notice--info}
 
-1. Stop je SD kaart terug in je 3DS
+1. Reinsert your SD card into your device
 
 ##### Section II - Installing boot9strap
 
