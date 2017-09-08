@@ -210,9 +210,6 @@ Verwende das `Titles`-Menü in FBI, um die Titel-ID des installierten Titel zu e
 
 ## <a name="rm_nnid" />Entferne die NNID ohne die Konsole zu formatieren
 
-Beachte: Sollten noch weitere Dateien als nur die`GodMode9.firm` Datei im `/luma/payloads/` Ordner auf deiner SD-Karte sein, starte das "Chainloader Menu", indem du beim Starten der Konsole die (Start) Taste gedrückt hältst und in welchem du dann das D-Pad und die (A) Taste verwenden musst um "GodMode9", für die Anleitung, auszuwählen. 
-{: .notice--info}
-
 #### Anleitung
 
 1. Starte GodMode9, indem du während dem Starten deiner Konsole die Taste (Start) gedrückt hältst
