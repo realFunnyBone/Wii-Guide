@@ -174,5 +174,5 @@ Pour plus d’informations sur l’utilisation des diverses fonctionnalités de 
 Pour plus d'informations concernant les diverses fonctionnalités de Luma3DS, veuillez consulter [Le wiki dédié](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage).
 {: .notice--success}
 
-Pour plus d'informations sur l'installation des thèmes personnalisés, badges et SplashScreen (image au démarrage de la console), consultez [3dsthem.es](https://3dsthem.es/about.php).
+For information on installing custom themes and splash screens, check out [Theme Plaza](https://themeplaza.eu/).
 {: .notice--success}
