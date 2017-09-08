@@ -174,5 +174,5 @@ ___
 Для справки об использовании различных функций Luma3DS обратитесь к её [вики](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage) (англ.).
 {: .notice--success}
 
-Для получения информации по установке пользовательских тем, значков и экранов-заставок, посетите [3dsthem.es](https://3dsthem.es/about.php).
+For information on installing custom themes and splash screens, check out [Theme Plaza](https://themeplaza.eu/).
 {: .notice--success}
