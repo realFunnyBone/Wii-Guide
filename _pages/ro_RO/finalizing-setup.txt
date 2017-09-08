@@ -174,5 +174,5 @@ Pentru informații despre cum să folosiți funcțiile diverse de pe GodMode9, v
 Pentru informații despre cum să folosiți funcțiile diverse de pe Luma3DS, vedeți [wiki-ul](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage).
 {: .notice--success}
 
-Pentru informaţii despre cum să instalați teme personalizate, insigne, şi ecrane splash, vedeți pe [3dsthem.es](https://3dsthem.es/about.php).
+For information on installing custom themes and splash screens, check out [Theme Plaza](https://themeplaza.eu/).
 {: .notice--success}
