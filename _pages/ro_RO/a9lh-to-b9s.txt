@@ -32,7 +32,7 @@ Au existat rapoarte despre un val de banuri adresate utilizatorilor de CFW de c�
 Țineți cont că următorul fișier necesar numit `secret_sector.bin` e același care se găsea în diferitele versiuni ale arhivei `data_input.zip`. Dacă aveți deja acel fișier undeva pe discul dumneavoastră, puteți să-l folosiți pe acela în loc să descărcați fișierul de mai jos.
 {: .notice--info}
 
-Note that, only on New 3DS, `secret_sector.bin` is needed to revert the arm9loaderhax exploit, which is why it is not needed for the installation of boot9strap on a stock console. Dacă nu aveți un New 3DS, nu aveți nevoie de fișierul `secret_sector.bin`.
+Țineți minte că, numai pe un New 3DS, fișierul `secret_sector.bin` este necesar pentru a inversa exploit-ul arm9loaderhax, de aceea nu este necesar pentru a instala boot9strap pe un dispozitiv care nu a fost exploatat niciodată. Dacă nu aveți un New 3DS, nu aveți nevoie de fișierul `secret_sector.bin`.
 {: .notice--info}
 
 * <i class="fa fa-magnet" aria-hidden="true" title="Acesta este un link magnetic. Folosiți un client de torrent pentru a descărca fișierul."></i> - **Doar pentru utilizatorii de New 3DS:** [`secret_sector.bin`](magnet:?xt=urn:btih:15a3c97acf17d67af98ae8657cc66820cc58f655&dn=secret_sector.bin&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce)
@@ -96,7 +96,7 @@ Această secţiune este necesară numai în cazul în care vi se arată meniul d
   + **"Show NAND or user string in System Settings"**
 1. Apăsați (Start) pentru a salva și reporni
 
-##### Section IV - Updating the System
+##### Secțiunea IV - Actualizând sistemul
 
 Dacă, înainte să urmăriți acest ghid, aveați deja o configurare cu EmuNAND și doriți să mutați conținutul lui pe noul CFW SysNAND, acum este timpul să [urmați Mutare EmuNAND](move-emunand) înainte să faceți pașii din această secțiune.
 {: .notice--info}
@@ -104,7 +104,7 @@ Dacă, înainte să urmăriți acest ghid, aveați deja o configurare cu EmuNAND
 1. Actualizați dispozitivul mergând în System Settings, apoi "Other Settings", apoi mergeți spre colțul drept și folosiți "System Update"
   + Actualizările în timp ce folosiți B9S + Luma (ce aveți) sunt sigure
   + Dacă aceasta vă dă o eroare, setați setările de DNS pe "auto"
-  + If this still gives you an error, [follow CTRTransfer](ctrtransfer), then try updating again
+  + Dacă tot primiți o eroare, [urmați CTRTransfer](ctrtransfer), apoi încercați să actualizați din nou
 
 ##### Secțiunea V - Instalând Luma3DS Updater
 
@@ -141,7 +141,7 @@ Dacă, înainte să urmăriți acest ghid, aveați deja o configurare cu EmuNAND
 1. Copiați `<serialnumber>_nandmin_###.bin` din folderul `/gm9/out/` de pe cardul SD într-o locaţie sigură pe calculator
   + Faceți copii de rezervă în mai multe locații (cum ar fi stocări online ale fișierelor)
   + Această copie de rezervă vă va salva de un brick în caz că ceva nu va merge bine în viitor
-  + Replace your old arm9loaderhax NAND backup with this new boot9strap one
+  + Înlocuiți vechea copie de rezervă NAND de arm9loaderhax cu cea nouă din boot9strap
 1. Ștergeți `<serialnumber>_nandmin_###.bin` din folderul `/gm9out/` de pe cardul SD după ce l-ați copiat
 1. Reintroduceți cardul SD în dispozitivul dumneavoastră
 
