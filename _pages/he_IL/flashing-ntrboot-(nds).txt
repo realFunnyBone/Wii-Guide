@@ -16,7 +16,7 @@ title: "צריבת ntrboot (NDS)"
   + R4i Ultra
   + R4 3D Revolution
   + Infinity 3 R4i
-  + DSTT ([some flash chips only!](https://gist.github.com/Hikari-chin/6b48f1bb8dd15136403c15c39fafdb42))
+  + DSTT ([כמה שבבי פלאש בלבד!](https://gist.github.com/Hikari-chin/6b48f1bb8dd15136403c15c39fafdb42))
 
 שימו לב שבמקרים נדירים, יתכן שתהליך הצריבה **ישבור** כרטיס פריצה מזוייף ויגרום לו לא לעבוד. זה לא סביר שייקרה, אבל בכל זאת רק כרטיסי פריצה מקוריים שמפורטים נתמכים. כדי להוריד את הסיכויים של להשיג כרטיס פריצה מזוייף, מומלץ להשתמש באתר אמין כדי לקנות את הכרטיס (כמו [NDS Card](http://www.nds-card.com/))
 {: .notice--danger}
@@ -43,7 +43,7 @@ title: "צריבת ntrboot (NDS)"
 
 1. תפעילו את `ak2i_ntrcardhax_flasher.nds` על **NDS / NDSL המקור** בעזרת כרטיס הפריצה שלכם
 1. תלחצו (A) כדי להמשיך
-1. Use (Up) and (Down) to select your flashcart
+1. תשתמשו ב (Up) וב(Down) כדי לבחור את הכרטיס פריצה שלכם
 1. תלחצו (A) כדי להמשיך
 1. תלחצו (X) בשביל "load flashrom"
 1. תלחצו (A) כדי להמשיך
