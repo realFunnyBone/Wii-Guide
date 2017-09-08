@@ -58,7 +58,7 @@ boot9strap 是目前最新且最棒的自製韌體啟動方式，有點像 Wii �
 ## 我可以透過自製韌體做些什麼？
 
 + 遊玩任一區的遊戲卡帶或電子商店 (eShop) 上的遊戲
-+ 透過他人創作的[主題](https://3dsthem.es/)、[徽章](https://badges.3dsthem.es/)、及[啟動畫面](https://splash.3dsthem.es/)來個人化您的 HOME 主選單
++ Customize your HOME Menu with user-created [themes and splash screens](https://themeplaza.eu/)
 + 套用金手指
 + 遊戲或軟體截圖
 + [備份、編輯以及還原](https://gbatemp.net/threads/413143/)各個遊戲的存檔
