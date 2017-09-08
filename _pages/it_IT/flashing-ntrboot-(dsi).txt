@@ -39,12 +39,12 @@ Tieni presente che in rare circostanze è possibile **brickare** una flashcart c
 
 1. Launch `ak2i_ntrcardhax_flasher_dsi.nds` on **the source DSi** using your flashcart
 1. Premi il pulsante (A) per continuare
-1. Use (Up) and (Down) to select your flashcart
+1. Usa i pulsanti (Su) e (Giù) per selezionare la tua flashcart
 1. Premi il pulsante (A) per continuare
 1. Premi (A) a "inject ntrboothax"
 1. Premi (A) per selezionare "RETAIL"
 1. Premi il pulsante (A) per continuare
-1. Select "EXIT"
+1. Seleziona "EXIT"
 
 ___
 
